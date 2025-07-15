@@ -1,5 +1,5 @@
 # 又拍云自动更新边缘规则重定向端口
-这个脚本是搭配lucky+又拍云重定向来使用的，详情请看[https://www.ytca.top/stun/2193/](https://www.ytca.top/stun/2193/)
+这个脚本是搭配lucky+又拍云重定向来使用的，详情请看[https://www.ytca.top/stun/2193/](https://www.ytca.top/stun/2193/)  
 有两个版本，python版本和shell版本的，效果都一样  
 iStoreOS不能使用shell版本，jq库版本太老了，不兼容  
 # 快速开始
